@@ -1,0 +1,18 @@
+.nav-bar {
+    background-color: rgba(0, 0, 0);
+    padding: 10px 50px;
+    color: aliceblue;
+    margin-bottom: 50px;
+
+}
+
+.nav-bar a {
+    text-decoration: none;
+    color: white;
+    margin-right: 40px;
+    font-size: 20px;
+}
+
+.nav-bar a:hover {
+    color: orange;
+}
